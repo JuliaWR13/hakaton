@@ -14,7 +14,7 @@ label {
   color: white;
   font-weight: bold;
   font-size: 14px;
-  background-color: #74C5F2;
+  background-color: rgba(0,102,204, 0.5);
 }
 label:first-of-type {
   border-top-left-radius: 10px;
